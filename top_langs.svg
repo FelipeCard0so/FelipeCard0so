@@ -20,27 +20,27 @@
 
   
   <text x="28" y="90" font-size="17" fill="#a8b2d8"
-        font-family="'Courier New',monospace">Python</text>
-  <text x="488" y="90" font-size="17" fill="#d4a017"
-        font-family="'Courier New',monospace" text-anchor="end">51.7%</text>
-  <rect x="28" y="98" width="460" height="10" rx="5" fill="#21262d"/>
-  <rect x="28" y="98" width="222" height="10" rx="5" fill="#3572A5"/>
-  <text x="28" y="132" font-size="17" fill="#a8b2d8"
         font-family="'Courier New',monospace">HTML</text>
+  <text x="488" y="90" font-size="17" fill="#d4a017"
+        font-family="'Courier New',monospace" text-anchor="end">50.6%</text>
+  <rect x="28" y="98" width="460" height="10" rx="5" fill="#21262d"/>
+  <rect x="28" y="98" width="217" height="10" rx="5" fill="#e34c26"/>
+  <text x="28" y="132" font-size="17" fill="#a8b2d8"
+        font-family="'Courier New',monospace">Python</text>
   <text x="488" y="132" font-size="17" fill="#d4a017"
-        font-family="'Courier New',monospace" text-anchor="end">46.5%</text>
+        font-family="'Courier New',monospace" text-anchor="end">47.1%</text>
   <rect x="28" y="140" width="460" height="10" rx="5" fill="#21262d"/>
-  <rect x="28" y="140" width="199" height="10" rx="5" fill="#e34c26"/>
+  <rect x="28" y="140" width="202" height="10" rx="5" fill="#3572A5"/>
   <text x="28" y="174" font-size="17" fill="#a8b2d8"
         font-family="'Courier New',monospace">CSS</text>
   <text x="488" y="174" font-size="17" fill="#d4a017"
-        font-family="'Courier New',monospace" text-anchor="end">1.1%</text>
+        font-family="'Courier New',monospace" text-anchor="end">1.6%</text>
   <rect x="28" y="182" width="460" height="10" rx="5" fill="#21262d"/>
   <rect x="28" y="182" width="8" height="10" rx="5" fill="#663399"/>
   <text x="28" y="216" font-size="17" fill="#a8b2d8"
         font-family="'Courier New',monospace">JavaScript</text>
   <text x="488" y="216" font-size="17" fill="#d4a017"
-        font-family="'Courier New',monospace" text-anchor="end">0.7%</text>
+        font-family="'Courier New',monospace" text-anchor="end">0.6%</text>
   <rect x="28" y="224" width="460" height="10" rx="5" fill="#21262d"/>
   <rect x="28" y="224" width="8" height="10" rx="5" fill="#f1e05a"/>
   <text x="28" y="258" font-size="17" fill="#a8b2d8"
